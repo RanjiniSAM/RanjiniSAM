@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ranjini
+- 👋 Hi, I’m Ranjini
 - 👀 I’m interested in Javascript ,React Js and mobile application development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
